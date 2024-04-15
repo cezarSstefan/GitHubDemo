@@ -1,0 +1,47 @@
+{
+	"id": "ecd5a609-1afb-ee11-aaf0-000d3ab82dc5",
+	"createdAt": "2024-04-15T11:19:35.463Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/cezarSstefan/GitHubDemo"
+	},
+	"name": "GithubDemo",
+	"description": null,
+	"ver": "24.4.15.1121",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [
+		{
+			"id": "8727163b-0cb1-ed11-a8e0-000d3ada944e",
+			"name": "Bla_Kors_HR_Portal",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
